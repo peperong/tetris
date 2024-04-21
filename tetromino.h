@@ -19,7 +19,6 @@ class Tetromino {
 
   // 회전되지 않은 원래 테트로미노 객체를 저장하는 포인터
   Tetromino *original_;
-
   // 테트로미노의 사이즈
   int size_;
 
